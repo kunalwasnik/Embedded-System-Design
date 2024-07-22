@@ -1,0 +1,1280 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_arm_muldf3.o)
+                              ./main.o (__aeabi_dmul)
+/home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_arm_addsubdf3.o)
+                              ./main.o (__aeabi_i2d)
+/home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_arm_muldivdf3.o)
+                              ./main.o (__aeabi_ddiv)
+/home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_arm_truncdfsf2.o)
+                              ./main.o (__aeabi_d2f)
+/home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_arm_fixsfsi.o)
+                              ./main.o (__aeabi_f2iz)
+/home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-atoi.o)
+                              ./main.o (atoi)
+/home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-exit.o)
+                              /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o (exit)
+/home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-impure.o)
+                              /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-exit.o) (_global_impure_ptr)
+/home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-init.o)
+                              /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o (__libc_init_array)
+/home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-memset.o)
+                              /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o (memset)
+/home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-sprintf.o)
+                              ./uart.o (sprintf)
+/home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-strtol.o)
+                              /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-atoi.o) (_strtol_r)
+/home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-svfprintf.o)
+                              /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-sprintf.o) (_svfprintf_r)
+/home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__call_atexit.o)
+                              /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-exit.o) (__call_exitprocs)
+/home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-atexit.o)
+                              /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__call_atexit.o) (atexit)
+/home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-ctype_.o)
+                              /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-strtol.o) (_ctype_)
+/home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-dtoa.o)
+                              /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-svfprintf.o) (_dtoa_r)
+/home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-fini.o)
+                              /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__call_atexit.o) (__libc_fini_array)
+/home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-freer.o)
+                              /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-svfprintf.o) (_free_r)
+/home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-localeconv.o)
+                              /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-svfprintf.o) (_localeconv_r)
+/home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-lock.o)
+                              /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__call_atexit.o) (__retarget_lock_acquire_recursive)
+/home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-mallocr.o)
+                              /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-svfprintf.o) (_malloc_r)
+/home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-memchr.o)
+                              /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-svfprintf.o) (memchr)
+/home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-memcpy.o)
+                              /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-dtoa.o) (memcpy)
+/home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-mlock.o)
+                              /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-freer.o) (__malloc_lock)
+/home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-mprec.o)
+                              /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-dtoa.o) (_Balloc)
+/home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-s_frexp.o)
+                              /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-svfprintf.o) (frexp)
+/home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-sbrkr.o)
+                              /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-freer.o) (_sbrk_r)
+/home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-strlen.o)
+                              /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-svfprintf.o) (strlen)
+/home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-strncpy.o)
+                              /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-svfprintf.o) (strncpy)
+/home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-svfiprintf.o)
+                              /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-svfprintf.o) (__ssprint_r)
+/home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__atexit.o)
+                              /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-atexit.o) (__register_exitproc)
+/home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-callocr.o)
+                              /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-mprec.o) (_calloc_r)
+/home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-locale.o)
+                              /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-localeconv.o) (__global_locale)
+/home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-mbtowc_r.o)
+                              /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-locale.o) (__ascii_mbtowc)
+/home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-memmove.o)
+                              /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-svfiprintf.o) (memmove)
+/home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-reallocr.o)
+                              /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-svfiprintf.o) (_realloc_r)
+/home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-reent.o)
+                              /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-sbrkr.o) (errno)
+/home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-strcmp.o)
+                              /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-locale.o) (strcmp)
+/home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-wctomb_r.o)
+                              /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-locale.o) (__ascii_wctomb)
+/home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_arm_cmpdf2.o)
+                              /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-svfprintf.o) (__aeabi_dcmpeq)
+/home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_arm_unorddf2.o)
+                              /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-svfprintf.o) (__aeabi_dcmpun)
+/home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_arm_fixdfsi.o)
+                              /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-svfprintf.o) (__aeabi_d2iz)
+/home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_aeabi_uldivmod.o)
+                              /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-svfprintf.o) (__aeabi_uldivmod)
+/home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_udivmoddi4.o)
+                              /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_aeabi_uldivmod.o) (__udivmoddi4)
+/home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_dvmd_tls.o)
+                              /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_aeabi_uldivmod.o) (__aeabi_ldiv0)
+/home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libnosys.a(sbrk.o)
+                              /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-sbrkr.o) (_sbrk)
+/home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libnosys.a(_exit.o)
+                              /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-exit.o) (_exit)
+
+Allocating common symbols
+Common symbol       size              file
+
+__lock___atexit_recursive_mutex
+                    0x1               /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-lock.o)
+__lock___arc4random_mutex
+                    0x1               /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-lock.o)
+errno               0x4               /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-reent.o)
+pot_display_value   0x4               ./main.o
+cmd_argument2       0x1e              ./main.o
+__lock___env_recursive_mutex
+                    0x1               /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-lock.o)
+__lock___sinit_recursive_mutex
+                    0x1               /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-lock.o)
+pot_value           0x4               ./main.o
+__lock___malloc_recursive_mutex
+                    0x1               /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-lock.o)
+mvolt_int           0x4               ./main.o
+mvolt               0x4               ./main.o
+color               0xa               ./main.o
+__lock___at_quick_exit_mutex
+                    0x1               /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-lock.o)
+cmd_argument        0x1e              ./main.o
+__lock___dd_hash_mutex
+                    0x1               /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-lock.o)
+__lock___tz_mutex   0x1               /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-lock.o)
+console_cmd_buffer  0x1e              ./main.o
+str_timer           0xa               ./main.o
+cmd                 0x1e              ./main.o
+__lock___sfp_recursive_mutex
+                    0x1               /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-lock.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x0000000000000000 0x0000000000040000 xr
+SRAM             0x0000000020000000 0x0000000000008000 xw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crti.o
+LOAD /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o
+LOAD /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+LOAD ./adc_pwm.o
+LOAD ./blink.o
+LOAD ./keypad.o
+LOAD ./lcd.o
+LOAD ./main.o
+LOAD ./segment7.o
+LOAD ./tm4c123gh6pm_startup_ccs_gcc.o
+LOAD ./uart.o
+                0x0000000000000000                PROVIDE (_intvecs_base_address = 0x0)
+
+.intvecs        0x0000000000000000      0x26c
+ *(.intvecs)
+ .intvecs       0x0000000000000000      0x26c ./tm4c123gh6pm_startup_ccs_gcc.o
+                0x0000000000000000                g_pfnVectors
+                0x0000000020000000                PROVIDE (_vtable_base_address = 0x20000000)
+
+.vtable
+ *(.vtable)
+
+.text           0x0000000000000280     0x8068
+ CREATE_OBJECT_SYMBOLS
+ *(.text)
+ .text          0x0000000000000280        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crti.o
+ .text          0x0000000000000280       0x40 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o
+ .text          0x00000000000002c0       0x74 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+                0x00000000000002c0                _mainCRTStartup
+                0x00000000000002c0                _start
+ .text          0x0000000000000334        0x0 ./adc_pwm.o
+ .text          0x0000000000000334        0x0 ./blink.o
+ .text          0x0000000000000334        0x0 ./keypad.o
+ .text          0x0000000000000334        0x0 ./lcd.o
+ .text          0x0000000000000334        0x0 ./main.o
+ .text          0x0000000000000334        0x0 ./segment7.o
+ .text          0x0000000000000334        0x0 ./tm4c123gh6pm_startup_ccs_gcc.o
+ .text          0x0000000000000334        0x0 ./uart.o
+ .text          0x0000000000000334      0x254 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_arm_muldf3.o)
+ .text          0x0000000000000588      0x378 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_arm_addsubdf3.o)
+                0x0000000000000588                __aeabi_drsub
+                0x0000000000000590                __aeabi_dsub
+                0x0000000000000590                __subdf3
+                0x0000000000000594                __adddf3
+                0x0000000000000594                __aeabi_dadd
+                0x000000000000080c                __aeabi_ui2d
+                0x000000000000080c                __floatunsidf
+                0x000000000000082c                __floatsidf
+                0x000000000000082c                __aeabi_i2d
+                0x0000000000000850                __extendsfdf2
+                0x0000000000000850                __aeabi_f2d
+                0x0000000000000894                __aeabi_ul2d
+                0x0000000000000894                __floatundidf
+                0x00000000000008a4                __floatdidf
+                0x00000000000008a4                __aeabi_l2d
+ .text          0x0000000000000900      0x424 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_arm_muldivdf3.o)
+                0x0000000000000900                __aeabi_dmul
+                0x0000000000000900                __muldf3
+                0x0000000000000b54                __aeabi_ddiv
+                0x0000000000000b54                __divdf3
+ .text          0x0000000000000d24       0xa0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_arm_truncdfsf2.o)
+                0x0000000000000d24                __aeabi_d2f
+                0x0000000000000d24                __truncdfsf2
+ .text          0x0000000000000dc4       0x4c /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_arm_fixsfsi.o)
+                0x0000000000000dc4                __fixsfsi
+                0x0000000000000dc4                __aeabi_f2iz
+ .text          0x0000000000000e10        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-atoi.o)
+ .text          0x0000000000000e10        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-exit.o)
+ .text          0x0000000000000e10        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-impure.o)
+ .text          0x0000000000000e10        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-init.o)
+ .text          0x0000000000000e10        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-memset.o)
+ .text          0x0000000000000e10        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-sprintf.o)
+ .text          0x0000000000000e10        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-strtol.o)
+ .text          0x0000000000000e10        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-svfprintf.o)
+ .text          0x0000000000000e10        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__call_atexit.o)
+ .text          0x0000000000000e10        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-atexit.o)
+ .text          0x0000000000000e10        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-ctype_.o)
+ .text          0x0000000000000e10        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-dtoa.o)
+ .text          0x0000000000000e10        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-fini.o)
+ .text          0x0000000000000e10        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-freer.o)
+ .text          0x0000000000000e10        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-localeconv.o)
+ .text          0x0000000000000e10        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-lock.o)
+ .text          0x0000000000000e10        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-mallocr.o)
+ .text          0x0000000000000e10       0xa0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-memchr.o)
+                0x0000000000000e10                memchr
+ .text          0x0000000000000eb0      0x134 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-memcpy.o)
+                0x0000000000000eb0                memcpy
+ .text          0x0000000000000fe4        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-mlock.o)
+ .text          0x0000000000000fe4        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-mprec.o)
+ .text          0x0000000000000fe4        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-s_frexp.o)
+ .text          0x0000000000000fe4        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-sbrkr.o)
+ *fill*         0x0000000000000fe4       0x1c 
+ .text          0x0000000000001000       0xdc /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-strlen.o)
+                0x0000000000001000                strlen
+ .text          0x00000000000010dc        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-strncpy.o)
+ .text          0x00000000000010dc        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-svfiprintf.o)
+ .text          0x00000000000010dc        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__atexit.o)
+ .text          0x00000000000010dc        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-callocr.o)
+ .text          0x00000000000010dc        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-locale.o)
+ .text          0x00000000000010dc        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-mbtowc_r.o)
+ .text          0x00000000000010dc        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-memmove.o)
+ .text          0x00000000000010dc        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-reallocr.o)
+ .text          0x00000000000010dc        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-reent.o)
+ *fill*         0x00000000000010dc        0x4 
+ .text          0x00000000000010e0      0x2dc /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-strcmp.o)
+                0x00000000000010e8                strcmp
+ .text          0x00000000000013bc        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-wctomb_r.o)
+ .text          0x00000000000013bc      0x110 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_arm_cmpdf2.o)
+                0x00000000000013bc                __gtdf2
+                0x00000000000013bc                __gedf2
+                0x00000000000013c4                __ltdf2
+                0x00000000000013c4                __ledf2
+                0x00000000000013cc                __cmpdf2
+                0x00000000000013cc                __eqdf2
+                0x00000000000013cc                __nedf2
+                0x0000000000001448                __aeabi_cdrcmple
+                0x0000000000001458                __aeabi_cdcmple
+                0x0000000000001458                __aeabi_cdcmpeq
+                0x0000000000001468                __aeabi_dcmpeq
+                0x000000000000147c                __aeabi_dcmplt
+                0x0000000000001490                __aeabi_dcmple
+                0x00000000000014a4                __aeabi_dcmpge
+                0x00000000000014b8                __aeabi_dcmpgt
+ .text          0x00000000000014cc       0x2c /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_arm_unorddf2.o)
+                0x00000000000014cc                __aeabi_dcmpun
+                0x00000000000014cc                __unorddf2
+ .text          0x00000000000014f8       0x50 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_arm_fixdfsi.o)
+                0x00000000000014f8                __fixdfsi
+                0x00000000000014f8                __aeabi_d2iz
+ .text          0x0000000000001548       0x30 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_aeabi_uldivmod.o)
+                0x0000000000001548                __aeabi_uldivmod
+ .text          0x0000000000001578      0x2c0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_udivmoddi4.o)
+                0x0000000000001578                __udivmoddi4
+ .text          0x0000000000001838        0x4 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_dvmd_tls.o)
+                0x0000000000001838                __aeabi_ldiv0
+                0x0000000000001838                __aeabi_idiv0
+ .text          0x000000000000183c        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libnosys.a(sbrk.o)
+ .text          0x000000000000183c        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libnosys.a(_exit.o)
+ .text          0x000000000000183c        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtend.o
+ .text          0x000000000000183c        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtn.o
+ *(.text.*)
+ .text.init_adc
+                0x000000000000183c       0xa4 ./adc_pwm.o
+                0x000000000000183c                init_adc
+ .text.init_pwm
+                0x00000000000018e0      0x114 ./adc_pwm.o
+                0x00000000000018e0                init_pwm
+ .text.keypad_init
+                0x00000000000019f4       0x7c ./keypad.o
+                0x00000000000019f4                keypad_init
+ .text.keypad_interrupt
+                0x0000000000001a70       0x4c ./keypad.o
+                0x0000000000001a70                keypad_interrupt
+ .text.lcd_config
+                0x0000000000001abc       0x74 ./lcd.o
+                0x0000000000001abc                lcd_config
+ .text.lcd_init
+                0x0000000000001b30       0xd4 ./lcd.o
+                0x0000000000001b30                lcd_init
+ .text.lcd_command
+                0x0000000000001c04       0x58 ./lcd.o
+                0x0000000000001c04                lcd_command
+ .text.lcd_print
+                0x0000000000001c5c       0x8c ./lcd.o
+                0x0000000000001c5c                lcd_print
+ .text.lcd_addr_addr
+                0x0000000000001ce8       0x8c ./lcd.o
+                0x0000000000001ce8                lcd_addr_addr
+ .text.lcd_delay
+                0x0000000000001d74       0x3e ./lcd.o
+                0x0000000000001d74                lcd_delay
+ *fill*         0x0000000000001db2        0x6 
+ .text.main     0x0000000000001db8      0x168 ./main.o
+                0x0000000000001db8                main
+ .text.pre_process
+                0x0000000000001f20      0x1b8 ./main.o
+                0x0000000000001f20                pre_process
+ .text.myHandler
+                0x00000000000020d8       0x64 ./main.o
+                0x00000000000020d8                myHandler
+ .text.myUartHandler
+                0x000000000000213c      0x1a8 ./main.o
+                0x000000000000213c                myUartHandler
+ .text.change_color
+                0x00000000000022e4      0x104 ./main.o
+                0x00000000000022e4                change_color
+ .text.change_blink_speed
+                0x00000000000023e8       0x70 ./main.o
+                0x00000000000023e8                change_blink_speed
+ .text.switch_led_init
+                0x0000000000002458       0xac ./main.o
+                0x0000000000002458                switch_led_init
+ .text.console_pause
+                0x0000000000002504       0x2c ./main.o
+                0x0000000000002504                console_pause
+ .text.console_resume
+                0x0000000000002530       0x2c ./main.o
+                0x0000000000002530                console_resume
+ .text.console_start
+                0x000000000000255c       0x34 ./main.o
+                0x000000000000255c                console_start
+ .text.console_stop
+                0x0000000000002590       0x64 ./main.o
+                0x0000000000002590                console_stop
+ .text.gpioc_handler
+                0x00000000000025f4       0x1c ./main.o
+                0x00000000000025f4                gpioc_handler
+ .text.delayMs  0x0000000000002610       0x3e ./main.o
+                0x0000000000002610                delayMs
+ *fill*         0x000000000000264e        0x2 
+ .text.init_7segment
+                0x0000000000002650       0x68 ./segment7.o
+                0x0000000000002650                init_7segment
+ .text.segment_display
+                0x00000000000026b8       0x94 ./segment7.o
+                0x00000000000026b8                segment_display
+ .text.SysTick_init
+                0x000000000000274c       0x30 ./segment7.o
+                0x000000000000274c                SysTick_init
+ .text.SysTick_Handler
+                0x000000000000277c      0x2dc ./segment7.o
+                0x000000000000277c                SysTick_Handler
+ .text.enable_irq
+                0x0000000000002a58        0xe ./segment7.o
+                0x0000000000002a58                enable_irq
+ *fill*         0x0000000000002a66        0x2 
+ .text.segment_display_refresh
+                0x0000000000002a68       0x60 ./segment7.o
+                0x0000000000002a68                segment_display_refresh
+ .text.delayMs_time
+                0x0000000000002ac8       0x3e ./segment7.o
+                0x0000000000002ac8                delayMs_time
+ *fill*         0x0000000000002b06        0x2 
+ .text.ResetISR
+                0x0000000000002b08       0x6c ./tm4c123gh6pm_startup_ccs_gcc.o
+                0x0000000000002b08                ResetISR
+ .text.NmiSR    0x0000000000002b74        0x6 ./tm4c123gh6pm_startup_ccs_gcc.o
+ .text.FaultISR
+                0x0000000000002b7a        0x6 ./tm4c123gh6pm_startup_ccs_gcc.o
+ .text.IntDefaultHandler
+                0x0000000000002b80        0x6 ./tm4c123gh6pm_startup_ccs_gcc.o
+ *fill*         0x0000000000002b86        0x2 
+ .text.UART_Init
+                0x0000000000002b88       0xf0 ./uart.o
+                0x0000000000002b88                UART_Init
+ .text.UART_InChar
+                0x0000000000002c78       0x28 ./uart.o
+                0x0000000000002c78                UART_InChar
+ .text.UART0_Transmitter
+                0x0000000000002ca0       0x30 ./uart.o
+                0x0000000000002ca0                UART0_Transmitter
+ .text.UART_OutChar
+                0x0000000000002cd0       0x30 ./uart.o
+                0x0000000000002cd0                UART_OutChar
+ .text.error    0x0000000000002d00       0x30 ./uart.o
+                0x0000000000002d00                error
+ .text.print    0x0000000000002d30       0x38 ./uart.o
+                0x0000000000002d30                print
+ .text.print_num
+                0x0000000000002d68       0x2c ./uart.o
+                0x0000000000002d68                print_num
+ .text.mystringcompare
+                0x0000000000002d94       0xaa ./uart.o
+                0x0000000000002d94                mystringcompare
+ *fill*         0x0000000000002e3e        0x2 
+ .text.atoi     0x0000000000002e40        0x8 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-atoi.o)
+                0x0000000000002e40                atoi
+ .text._atoi_r  0x0000000000002e48        0x8 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-atoi.o)
+                0x0000000000002e48                _atoi_r
+ .text.exit     0x0000000000002e50       0x20 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-exit.o)
+                0x0000000000002e50                exit
+ .text.__libc_init_array
+                0x0000000000002e70       0x48 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-init.o)
+                0x0000000000002e70                __libc_init_array
+ .text.memset   0x0000000000002eb8       0xa0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-memset.o)
+                0x0000000000002eb8                memset
+ .text._sprintf_r
+                0x0000000000002f58       0x38 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-sprintf.o)
+                0x0000000000002f58                _sprintf_r
+ .text.sprintf  0x0000000000002f90       0x44 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-sprintf.o)
+                0x0000000000002f90                sprintf
+ .text._strtol_l.isra.0
+                0x0000000000002fd4      0x10c /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-strtol.o)
+ .text._strtol_r
+                0x00000000000030e0        0x4 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-strtol.o)
+                0x00000000000030e0                _strtol_r
+ .text.strtol_l
+                0x00000000000030e4       0x18 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-strtol.o)
+                0x00000000000030e4                strtol_l
+ .text.strtol   0x00000000000030fc       0x18 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-strtol.o)
+                0x00000000000030fc                strtol
+ .text._svfprintf_r
+                0x0000000000003114     0x1acc /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-svfprintf.o)
+                0x0000000000003114                _svfprintf_r
+ .text.startup.register_fini
+                0x0000000000004be0       0x14 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x0000000000004bf4       0xc4 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__call_atexit.o)
+                0x0000000000004bf4                __call_exitprocs
+ .text.atexit   0x0000000000004cb8        0xc /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-atexit.o)
+                0x0000000000004cb8                atexit
+ .text.quorem   0x0000000000004cc4      0x11c /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-dtoa.o)
+ .text._dtoa_r  0x0000000000004de0      0xeb8 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-dtoa.o)
+                0x0000000000004de0                _dtoa_r
+ .text.__libc_fini_array
+                0x0000000000005c98       0x2c /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-fini.o)
+                0x0000000000005c98                __libc_fini_array
+ .text._malloc_trim_r
+                0x0000000000005cc4       0xa0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-freer.o)
+                0x0000000000005cc4                _malloc_trim_r
+ .text._free_r  0x0000000000005d64      0x208 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-freer.o)
+                0x0000000000005d64                _free_r
+ .text.__localeconv_l
+                0x0000000000005f6c        0x4 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-localeconv.o)
+                0x0000000000005f6c                __localeconv_l
+ .text._localeconv_r
+                0x0000000000005f70        0x8 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-localeconv.o)
+                0x0000000000005f70                _localeconv_r
+ .text.localeconv
+                0x0000000000005f78        0x8 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-localeconv.o)
+                0x0000000000005f78                localeconv
+ .text.__retarget_lock_init
+                0x0000000000005f80        0x4 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-lock.o)
+                0x0000000000005f80                __retarget_lock_init
+ .text.__retarget_lock_init_recursive
+                0x0000000000005f84        0x4 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-lock.o)
+                0x0000000000005f84                __retarget_lock_init_recursive
+ .text.__retarget_lock_close
+                0x0000000000005f88        0x4 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-lock.o)
+                0x0000000000005f88                __retarget_lock_close
+ .text.__retarget_lock_close_recursive
+                0x0000000000005f8c        0x4 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-lock.o)
+                0x0000000000005f8c                __retarget_lock_close_recursive
+ .text.__retarget_lock_acquire
+                0x0000000000005f90        0x4 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-lock.o)
+                0x0000000000005f90                __retarget_lock_acquire
+ .text.__retarget_lock_acquire_recursive
+                0x0000000000005f94        0x4 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-lock.o)
+                0x0000000000005f94                __retarget_lock_acquire_recursive
+ .text.__retarget_lock_try_acquire
+                0x0000000000005f98        0x4 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-lock.o)
+                0x0000000000005f98                __retarget_lock_try_acquire
+ .text.__retarget_lock_try_acquire_recursive
+                0x0000000000005f9c        0x4 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-lock.o)
+                0x0000000000005f9c                __retarget_lock_try_acquire_recursive
+ .text.__retarget_lock_release
+                0x0000000000005fa0        0x4 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-lock.o)
+                0x0000000000005fa0                __retarget_lock_release
+ .text.__retarget_lock_release_recursive
+                0x0000000000005fa4        0x4 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-lock.o)
+                0x0000000000005fa4                __retarget_lock_release_recursive
+ .text._malloc_r
+                0x0000000000005fa8      0x574 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-mallocr.o)
+                0x0000000000005fa8                _malloc_r
+ .text.__malloc_lock
+                0x000000000000651c        0xc /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-mlock.o)
+                0x000000000000651c                __malloc_lock
+ .text.__malloc_unlock
+                0x0000000000006528        0xc /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-mlock.o)
+                0x0000000000006528                __malloc_unlock
+ .text._Balloc  0x0000000000006534       0x4c /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-mprec.o)
+                0x0000000000006534                _Balloc
+ .text._Bfree   0x0000000000006580       0x14 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-mprec.o)
+                0x0000000000006580                _Bfree
+ .text.__multadd
+                0x0000000000006594       0x80 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-mprec.o)
+                0x0000000000006594                __multadd
+ .text.__s2b    0x0000000000006614       0xa0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-mprec.o)
+                0x0000000000006614                __s2b
+ .text.__hi0bits
+                0x00000000000066b4       0x40 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-mprec.o)
+                0x00000000000066b4                __hi0bits
+ .text.__lo0bits
+                0x00000000000066f4       0x60 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-mprec.o)
+                0x00000000000066f4                __lo0bits
+ .text.__i2b    0x0000000000006754       0x14 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-mprec.o)
+                0x0000000000006754                __i2b
+ .text.__multiply
+                0x0000000000006768      0x144 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-mprec.o)
+                0x0000000000006768                __multiply
+ .text.__pow5mult
+                0x00000000000068ac       0xa0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-mprec.o)
+                0x00000000000068ac                __pow5mult
+ .text.__lshift
+                0x000000000000694c       0xd4 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-mprec.o)
+                0x000000000000694c                __lshift
+ .text.__mcmp   0x0000000000006a20       0x3c /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-mprec.o)
+                0x0000000000006a20                __mcmp
+ .text.__mdiff  0x0000000000006a5c      0x138 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-mprec.o)
+                0x0000000000006a5c                __mdiff
+ .text.__ulp    0x0000000000006b94       0x44 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-mprec.o)
+                0x0000000000006b94                __ulp
+ .text.__b2d    0x0000000000006bd8       0xcc /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-mprec.o)
+                0x0000000000006bd8                __b2d
+ .text.__d2b    0x0000000000006ca4       0xa8 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-mprec.o)
+                0x0000000000006ca4                __d2b
+ .text.__ratio  0x0000000000006d4c       0x60 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-mprec.o)
+                0x0000000000006d4c                __ratio
+ .text._mprec_log10
+                0x0000000000006dac       0x38 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-mprec.o)
+                0x0000000000006dac                _mprec_log10
+ .text.__copybits
+                0x0000000000006de4       0x48 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-mprec.o)
+                0x0000000000006de4                __copybits
+ .text.__any_on
+                0x0000000000006e2c       0x60 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-mprec.o)
+                0x0000000000006e2c                __any_on
+ .text.frexp    0x0000000000006e8c       0x70 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-s_frexp.o)
+                0x0000000000006e8c                frexp
+ .text._sbrk_r  0x0000000000006efc       0x24 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-sbrkr.o)
+                0x0000000000006efc                _sbrk_r
+ .text.strncpy  0x0000000000006f20       0x68 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-strncpy.o)
+                0x0000000000006f20                strncpy
+ .text.__ssprint_r
+                0x0000000000006f88       0xf8 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-svfiprintf.o)
+                0x0000000000006f88                __ssprint_r
+ .text._svfiprintf_r
+                0x0000000000007080      0xb14 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-svfiprintf.o)
+                0x0000000000007080                _svfiprintf_r
+ .text.__register_exitproc
+                0x0000000000007b94       0x8c /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__atexit.o)
+                0x0000000000007b94                __register_exitproc
+ .text._calloc_r
+                0x0000000000007c20       0x60 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-callocr.o)
+                0x0000000000007c20                _calloc_r
+ .text._setlocale_r
+                0x0000000000007c80       0x40 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-locale.o)
+                0x0000000000007c80                _setlocale_r
+ .text.__locale_mb_cur_max
+                0x0000000000007cc0        0xc /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-locale.o)
+                0x0000000000007cc0                __locale_mb_cur_max
+ .text.setlocale
+                0x0000000000007ccc       0x10 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-locale.o)
+                0x0000000000007ccc                setlocale
+ .text._mbtowc_r
+                0x0000000000007cdc       0x14 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-mbtowc_r.o)
+                0x0000000000007cdc                _mbtowc_r
+ .text.__ascii_mbtowc
+                0x0000000000007cf0       0x2c /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-mbtowc_r.o)
+                0x0000000000007cf0                __ascii_mbtowc
+ .text.memmove  0x0000000000007d1c       0xd8 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-memmove.o)
+                0x0000000000007d1c                memmove
+ .text._realloc_r
+                0x0000000000007df4      0x3e0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-reallocr.o)
+                0x0000000000007df4                _realloc_r
+ .text.cleanup_glue
+                0x00000000000081d4       0x1c /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-reent.o)
+                0x00000000000081d4                cleanup_glue
+ .text._reclaim_reent
+                0x00000000000081f0       0x84 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-reent.o)
+                0x00000000000081f0                _reclaim_reent
+ .text._wctomb_r
+                0x0000000000008274       0x14 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-wctomb_r.o)
+                0x0000000000008274                _wctomb_r
+ .text.__ascii_wctomb
+                0x0000000000008288       0x1c /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-wctomb_r.o)
+                0x0000000000008288                __ascii_wctomb
+ .text._sbrk    0x00000000000082a4       0x1c /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libnosys.a(sbrk.o)
+                0x00000000000082a4                _sbrk
+ .text._exit    0x00000000000082c0        0x4 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libnosys.a(_exit.o)
+                0x00000000000082c0                _exit
+                0x00000000000082c4                . = ALIGN (0x4)
+ *(.ctors)
+                0x00000000000082c4                . = ALIGN (0x4)
+ *(.dtors)
+                0x00000000000082c4                . = ALIGN (0x4)
+                0x00000000000082c4                __init_array_start = .
+ *(.init_array*)
+ .init_array    0x00000000000082c4        0x4 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o
+ .init_array.00000
+                0x00000000000082c8        0x4 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__call_atexit.o)
+                0x00000000000082cc                __init_array_end = .
+ *(.init)
+ .init          0x00000000000082cc        0x4 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crti.o
+                0x00000000000082cc                _init
+ .init          0x00000000000082d0        0x8 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtn.o
+ *(.fini*)
+ .fini          0x00000000000082d8        0x4 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crti.o
+                0x00000000000082d8                _fini
+ .fini_array    0x00000000000082dc        0x4 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o
+ .fini          0x00000000000082e0        0x8 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtn.o
+                [!provide]                        PROVIDE (__etext = .)
+                [!provide]                        PROVIDE (_etext = .)
+                [!provide]                        PROVIDE (etext = .)
+
+.glue_7         0x00000000000082e8        0x0
+ .glue_7        0x00000000000082e8        0x0 linker stubs
+
+.glue_7t        0x00000000000082e8        0x0
+ .glue_7t       0x00000000000082e8        0x0 linker stubs
+
+.vfp11_veneer   0x00000000000082e8        0x0
+ .vfp11_veneer  0x00000000000082e8        0x0 linker stubs
+
+.v4_bx          0x00000000000082e8        0x0
+ .v4_bx         0x00000000000082e8        0x0 linker stubs
+
+.iplt           0x00000000000082e8        0x0
+ .iplt          0x00000000000082e8        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o
+
+.rodata         0x00000000000082e8      0x442
+ *(.rodata)
+ .rodata        0x00000000000082e8      0x145 ./main.o
+ *fill*         0x000000000000842d        0x3 
+ .rodata        0x0000000000008430       0x10 ./segment7.o
+ .rodata        0x0000000000008440       0x19 ./uart.o
+ *(.rodata*)
+ *fill*         0x0000000000008459        0x3 
+ .rodata._global_impure_ptr
+                0x000000000000845c        0x4 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-impure.o)
+                0x000000000000845c                _global_impure_ptr
+ .rodata._svfprintf_r.str1.4
+                0x0000000000008460       0x42 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-svfprintf.o)
+ *fill*         0x00000000000084a2        0x2 
+ .rodata.blanks.7345
+                0x00000000000084a4       0x10 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-svfprintf.o)
+ .rodata.zeroes.7346
+                0x00000000000084b4       0x10 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-svfprintf.o)
+ .rodata._ctype_
+                0x00000000000084c4      0x101 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-ctype_.o)
+                0x00000000000084c4                _ctype_
+ *fill*         0x00000000000085c5        0x3 
+ .rodata._dtoa_r.str1.4
+                0x00000000000085c8        0xd /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-dtoa.o)
+                                         0x12 (size before relaxing)
+ *fill*         0x00000000000085d5        0x3 
+ .rodata.__mprec_bigtens
+                0x00000000000085d8       0x28 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-mprec.o)
+                0x00000000000085d8                __mprec_bigtens
+ .rodata.__mprec_tens
+                0x0000000000008600       0xc8 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-mprec.o)
+                0x0000000000008600                __mprec_tens
+ .rodata.__mprec_tinytens
+                0x00000000000086c8       0x28 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-mprec.o)
+                0x00000000000086c8                __mprec_tinytens
+ .rodata.p05.6115
+                0x00000000000086f0        0xc /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-mprec.o)
+ .rodata._svfiprintf_r.str1.4
+                0x00000000000086fc       0x2f /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-svfiprintf.o)
+ .rodata.blanks.7324
+                0x00000000000086fc       0x10 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-svfiprintf.o)
+ .rodata.zeroes.7325
+                0x000000000000870c       0x10 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-svfiprintf.o)
+ .rodata._setlocale_r.str1.4
+                0x000000000000871c        0xa /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-locale.o)
+                                          0xd (size before relaxing)
+ *fill*         0x0000000000008726        0x2 
+ .rodata.str1.4
+                0x0000000000008728        0x2 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-locale.o)
+
+.eh_frame       0x000000000000872c        0x4
+ .eh_frame      0x000000000000872c        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o
+ .eh_frame      0x000000000000872c        0x4 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtend.o
+
+.data           0x0000000020000000      0xa18 load address 0x0000000000008730
+                0x0000000000008730                __data_load__ = LOADADDR (.data)
+                0x0000000020000000                __data_start__ = .
+ *(.data)
+ .data          0x0000000020000000        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crti.o
+ .data          0x0000000020000000        0x4 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o
+                0x0000000020000000                __dso_handle
+ .data          0x0000000020000004        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .data          0x0000000020000004        0x0 ./adc_pwm.o
+ .data          0x0000000020000004        0x0 ./blink.o
+ .data          0x0000000020000004        0x0 ./keypad.o
+ .data          0x0000000020000004        0x0 ./lcd.o
+ .data          0x0000000020000004        0x0 ./main.o
+ .data          0x0000000020000004        0x0 ./segment7.o
+ .data          0x0000000020000004        0x0 ./tm4c123gh6pm_startup_ccs_gcc.o
+ .data          0x0000000020000004        0x0 ./uart.o
+ .data          0x0000000020000004        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_arm_muldf3.o)
+ .data          0x0000000020000004        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_arm_addsubdf3.o)
+ .data          0x0000000020000004        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_arm_muldivdf3.o)
+ .data          0x0000000020000004        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_arm_truncdfsf2.o)
+ .data          0x0000000020000004        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_arm_fixsfsi.o)
+ .data          0x0000000020000004        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-atoi.o)
+ .data          0x0000000020000004        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-exit.o)
+ .data          0x0000000020000004        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-impure.o)
+ .data          0x0000000020000004        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-init.o)
+ .data          0x0000000020000004        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-memset.o)
+ .data          0x0000000020000004        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-sprintf.o)
+ .data          0x0000000020000004        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-strtol.o)
+ .data          0x0000000020000004        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-svfprintf.o)
+ .data          0x0000000020000004        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__call_atexit.o)
+ .data          0x0000000020000004        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-atexit.o)
+ .data          0x0000000020000004        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-ctype_.o)
+ .data          0x0000000020000004        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-dtoa.o)
+ .data          0x0000000020000004        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-fini.o)
+ .data          0x0000000020000004        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-freer.o)
+ .data          0x0000000020000004        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-localeconv.o)
+ .data          0x0000000020000004        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-lock.o)
+ .data          0x0000000020000004        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-mallocr.o)
+ .data          0x0000000020000004        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-memchr.o)
+ .data          0x0000000020000004        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-memcpy.o)
+ .data          0x0000000020000004        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-mlock.o)
+ .data          0x0000000020000004        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-mprec.o)
+ .data          0x0000000020000004        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-s_frexp.o)
+ .data          0x0000000020000004        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-sbrkr.o)
+ .data          0x0000000020000004        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-strlen.o)
+ .data          0x0000000020000004        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-strncpy.o)
+ .data          0x0000000020000004        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-svfiprintf.o)
+ .data          0x0000000020000004        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__atexit.o)
+ .data          0x0000000020000004        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-callocr.o)
+ .data          0x0000000020000004        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-locale.o)
+ .data          0x0000000020000004        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-mbtowc_r.o)
+ .data          0x0000000020000004        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-memmove.o)
+ .data          0x0000000020000004        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-reallocr.o)
+ .data          0x0000000020000004        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-reent.o)
+ .data          0x0000000020000004        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-strcmp.o)
+ .data          0x0000000020000004        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-wctomb_r.o)
+ .data          0x0000000020000004        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_arm_cmpdf2.o)
+ .data          0x0000000020000004        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_arm_unorddf2.o)
+ .data          0x0000000020000004        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_arm_fixdfsi.o)
+ .data          0x0000000020000004        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_aeabi_uldivmod.o)
+ .data          0x0000000020000004        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_udivmoddi4.o)
+ .data          0x0000000020000004        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_dvmd_tls.o)
+ .data          0x0000000020000004        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libnosys.a(sbrk.o)
+ .data          0x0000000020000004        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libnosys.a(_exit.o)
+ .data          0x0000000020000004        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtend.o
+ .data          0x0000000020000004        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtn.o
+ *(.data*)
+ .data.color_code
+                0x0000000020000004       0x1c ./main.o
+                0x0000000020000004                color_code
+ .data.blink_delay
+                0x0000000020000020        0x4 ./main.o
+                0x0000000020000020                blink_delay
+ .data.selected_color
+                0x0000000020000024        0x4 ./main.o
+                0x0000000020000024                selected_color
+ .data.msg      0x0000000020000028        0x4 ./main.o
+                0x0000000020000028                msg
+ .data.status   0x000000002000002c        0xc ./main.o
+                0x000000002000002c                status
+ .data.adc_value
+                0x0000000020000038        0x4 ./main.o
+                0x0000000020000038                adc_value
+ .data.segment_num
+                0x000000002000003c       0x28 ./segment7.o
+                0x000000002000003c                segment_num
+ .data.dot_display
+                0x0000000020000064        0x4 ./segment7.o
+                0x0000000020000064                dot_display
+ .data._impure_ptr
+                0x0000000020000068        0x4 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-impure.o)
+                0x0000000020000068                _impure_ptr
+ *fill*         0x000000002000006c        0x4 
+ .data.impure_data
+                0x0000000020000070      0x428 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-impure.o)
+ .data.__atexit_recursive_mutex
+                0x0000000020000498        0x4 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__call_atexit.o)
+                0x0000000020000498                __atexit_recursive_mutex
+ .data.__malloc_av_
+                0x000000002000049c      0x408 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-mallocr.o)
+                0x000000002000049c                __malloc_av_
+ .data.__malloc_sbrk_base
+                0x00000000200008a4        0x4 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-mallocr.o)
+                0x00000000200008a4                __malloc_sbrk_base
+ .data.__malloc_trim_threshold
+                0x00000000200008a8        0x4 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-mallocr.o)
+                0x00000000200008a8                __malloc_trim_threshold
+ .data.__global_locale
+                0x00000000200008ac      0x16c /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-locale.o)
+                0x00000000200008ac                __global_locale
+                0x0000000020000a18                . = ALIGN (0x4)
+                0x0000000020000a18                __data_end__ = .
+
+.igot.plt       0x0000000020000a18        0x0 load address 0x0000000000009148
+ .igot.plt      0x0000000020000a18        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o
+
+.ARM.exidx      0x0000000000009148        0x8
+                0x0000000000009148                __exidx_start = .
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+ .ARM.exidx     0x0000000000009148        0x8 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .ARM.exidx     0x0000000000009150        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_udivmoddi4.o)
+                                          0x8 (size before relaxing)
+                0x0000000000009150                __exidx_end = .
+
+.ARM.extab      0x0000000000009150        0x0
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+ .ARM.extab     0x0000000000009150        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .ARM.extab     0x0000000000009150        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_udivmoddi4.o)
+
+.rel.dyn        0x0000000000009150        0x0
+ .rel.iplt      0x0000000000009150        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o
+
+.bss            0x0000000020000a18      0x388
+                0x0000000020000a18                __bss_start__ = .
+ *(.shbss)
+ *(.bss)
+ .bss           0x0000000020000a18        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crti.o
+ .bss           0x0000000020000a18       0x1c /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o
+ .bss           0x0000000020000a34        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .bss           0x0000000020000a34        0x0 ./adc_pwm.o
+ .bss           0x0000000020000a34        0x0 ./blink.o
+ .bss           0x0000000020000a34        0x0 ./keypad.o
+ .bss           0x0000000020000a34        0x0 ./lcd.o
+ .bss           0x0000000020000a34        0x0 ./main.o
+ .bss           0x0000000020000a34        0x0 ./segment7.o
+ .bss           0x0000000020000a34        0x0 ./tm4c123gh6pm_startup_ccs_gcc.o
+ .bss           0x0000000020000a34        0x0 ./uart.o
+ .bss           0x0000000020000a34        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_arm_muldf3.o)
+ .bss           0x0000000020000a34        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_arm_addsubdf3.o)
+ .bss           0x0000000020000a34        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_arm_muldivdf3.o)
+ .bss           0x0000000020000a34        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_arm_truncdfsf2.o)
+ .bss           0x0000000020000a34        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_arm_fixsfsi.o)
+ .bss           0x0000000020000a34        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-atoi.o)
+ .bss           0x0000000020000a34        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-exit.o)
+ .bss           0x0000000020000a34        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-impure.o)
+ .bss           0x0000000020000a34        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-init.o)
+ .bss           0x0000000020000a34        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-memset.o)
+ .bss           0x0000000020000a34        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-sprintf.o)
+ .bss           0x0000000020000a34        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-strtol.o)
+ .bss           0x0000000020000a34        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-svfprintf.o)
+ .bss           0x0000000020000a34        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__call_atexit.o)
+ .bss           0x0000000020000a34        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-atexit.o)
+ .bss           0x0000000020000a34        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-ctype_.o)
+ .bss           0x0000000020000a34        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-dtoa.o)
+ .bss           0x0000000020000a34        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-fini.o)
+ .bss           0x0000000020000a34        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-freer.o)
+ .bss           0x0000000020000a34        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-localeconv.o)
+ .bss           0x0000000020000a34        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-lock.o)
+ .bss           0x0000000020000a34        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-mallocr.o)
+ .bss           0x0000000020000a34        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-memchr.o)
+ .bss           0x0000000020000a34        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-memcpy.o)
+ .bss           0x0000000020000a34        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-mlock.o)
+ .bss           0x0000000020000a34        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-mprec.o)
+ .bss           0x0000000020000a34        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-s_frexp.o)
+ .bss           0x0000000020000a34        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-sbrkr.o)
+ .bss           0x0000000020000a34        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-strlen.o)
+ .bss           0x0000000020000a34        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-strncpy.o)
+ .bss           0x0000000020000a34        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-svfiprintf.o)
+ .bss           0x0000000020000a34        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__atexit.o)
+ .bss           0x0000000020000a34        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-callocr.o)
+ .bss           0x0000000020000a34        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-locale.o)
+ .bss           0x0000000020000a34        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-mbtowc_r.o)
+ .bss           0x0000000020000a34        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-memmove.o)
+ .bss           0x0000000020000a34        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-reallocr.o)
+ .bss           0x0000000020000a34        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-reent.o)
+ .bss           0x0000000020000a34        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-strcmp.o)
+ .bss           0x0000000020000a34        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-wctomb_r.o)
+ .bss           0x0000000020000a34        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_arm_cmpdf2.o)
+ .bss           0x0000000020000a34        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_arm_unorddf2.o)
+ .bss           0x0000000020000a34        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_arm_fixdfsi.o)
+ .bss           0x0000000020000a34        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_aeabi_uldivmod.o)
+ .bss           0x0000000020000a34        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_udivmoddi4.o)
+ .bss           0x0000000020000a34        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_dvmd_tls.o)
+ .bss           0x0000000020000a34        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libnosys.a(sbrk.o)
+ .bss           0x0000000020000a34        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libnosys.a(_exit.o)
+ .bss           0x0000000020000a34        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtend.o
+ .bss           0x0000000020000a34        0x0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtn.o
+ *(.bss.*)
+ .bss.blink_speed
+                0x0000000020000a34        0x4 ./main.o
+                0x0000000020000a34                blink_speed
+ .bss.counter   0x0000000020000a38        0x4 ./main.o
+                0x0000000020000a38                counter
+ .bss.cycles    0x0000000020000a3c        0x4 ./main.o
+                0x0000000020000a3c                cycles
+ .bss.device_pause
+                0x0000000020000a40        0x4 ./main.o
+                0x0000000020000a40                device_pause
+ .bss.device_stop
+                0x0000000020000a44        0x4 ./main.o
+                0x0000000020000a44                device_stop
+ .bss.count_down
+                0x0000000020000a48        0x4 ./main.o
+                0x0000000020000a48                count_down
+ .bss.toggle_pause
+                0x0000000020000a4c        0x4 ./main.o
+                0x0000000020000a4c                toggle_pause
+ .bss.toggle_stop
+                0x0000000020000a50        0x4 ./main.o
+                0x0000000020000a50                toggle_stop
+ .bss.value_set_count_down
+                0x0000000020000a54        0x4 ./main.o
+                0x0000000020000a54                value_set_count_down
+ .bss.status_index
+                0x0000000020000a58        0x4 ./main.o
+                0x0000000020000a58                status_index
+ .bss.ci        0x0000000020000a5c        0x4 ./main.o
+                0x0000000020000a5c                ci
+ .bss.blink_rate
+                0x0000000020000a60        0x4 ./main.o
+                0x0000000020000a60                blink_rate
+ .bss.x         0x0000000020000a64        0x4 ./main.o
+                0x0000000020000a64                x
+ .bss.prev_adc  0x0000000020000a68        0x4 ./main.o
+                0x0000000020000a68                prev_adc
+ .bss.adc_change
+                0x0000000020000a6c        0x4 ./main.o
+                0x0000000020000a6c                adc_change
+ .bss.segment_frame
+                0x0000000020000a70       0x10 ./segment7.o
+                0x0000000020000a70                segment_frame
+ .bss.stopwatch_timer
+                0x0000000020000a80        0x4 ./segment7.o
+                0x0000000020000a80                stopwatch_timer
+ .bss.prev_time
+                0x0000000020000a84        0x4 ./segment7.o
+                0x0000000020000a84                prev_time
+ .bss.hundred_mili
+                0x0000000020000a88        0x4 ./segment7.o
+                0x0000000020000a88                hundred_mili
+ .bss.segment_pin.5252
+                0x0000000020000a8c        0x4 ./segment7.o
+ .bss.segment_row.5251
+                0x0000000020000a90        0x4 ./segment7.o
+ .bss.pui32Stack
+                0x0000000020000a94      0x200 ./tm4c123gh6pm_startup_ccs_gcc.o
+ .bss.__malloc_current_mallinfo
+                0x0000000020000c94       0x28 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-mallocr.o)
+                0x0000000020000c94                __malloc_current_mallinfo
+ .bss.__malloc_max_sbrked_mem
+                0x0000000020000cbc        0x4 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-mallocr.o)
+                0x0000000020000cbc                __malloc_max_sbrked_mem
+ .bss.__malloc_max_total_mem
+                0x0000000020000cc0        0x4 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-mallocr.o)
+                0x0000000020000cc0                __malloc_max_total_mem
+ .bss.__malloc_top_pad
+                0x0000000020000cc4        0x4 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-mallocr.o)
+                0x0000000020000cc4                __malloc_top_pad
+ .bss._PathLocale
+                0x0000000020000cc8        0x4 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-locale.o)
+                0x0000000020000cc8                _PathLocale
+ .bss.heap_end.4144
+                0x0000000020000ccc        0x4 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libnosys.a(sbrk.o)
+ *(COMMON)
+ COMMON         0x0000000020000cd0       0xa6 ./main.o
+                0x0000000020000cd0                pot_display_value
+                0x0000000020000cd4                cmd_argument2
+                0x0000000020000cf4                pot_value
+                0x0000000020000cf8                mvolt_int
+                0x0000000020000cfc                mvolt
+                0x0000000020000d00                color
+                0x0000000020000d0c                cmd_argument
+                0x0000000020000d2c                console_cmd_buffer
+                0x0000000020000d4c                str_timer
+                0x0000000020000d58                cmd
+ *fill*         0x0000000020000d76        0x2 
+ COMMON         0x0000000020000d78       0x21 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-lock.o)
+                0x0000000020000d78                __lock___atexit_recursive_mutex
+                0x0000000020000d7c                __lock___arc4random_mutex
+                0x0000000020000d80                __lock___env_recursive_mutex
+                0x0000000020000d84                __lock___sinit_recursive_mutex
+                0x0000000020000d88                __lock___malloc_recursive_mutex
+                0x0000000020000d8c                __lock___at_quick_exit_mutex
+                0x0000000020000d90                __lock___dd_hash_mutex
+                0x0000000020000d94                __lock___tz_mutex
+                0x0000000020000d98                __lock___sfp_recursive_mutex
+ *fill*         0x0000000020000d99        0x3 
+ COMMON         0x0000000020000d9c        0x4 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-reent.o)
+                0x0000000020000d9c                errno
+                0x0000000020000da0                . = ALIGN (0x4)
+                0x0000000020000da0                __bss_end__ = .
+
+.heap           0x0000000020000da0        0x0
+                0x0000000020000da0                __heap_start__ = .
+                0x0000000020000da0                end = __heap_start__
+                0x0000000020000da0                _end = end
+                0x0000000020000da0                __end = end
+ *(.heap)
+                0x0000000020000da0                __heap_end__ = .
+                0x0000000020000da0                __HeapLimit = __heap_end__
+
+.stack          0x0000000020000da0        0x0
+                0x0000000020000da0                _stack = .
+                0x0000000020000da0                __stack = .
+ *(.stack)
+START GROUP
+LOAD /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a
+LOAD /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a
+LOAD /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc.a
+END GROUP
+START GROUP
+LOAD /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a
+LOAD /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc.a
+LOAD /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libnosys.a
+END GROUP
+LOAD /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtend.o
+LOAD /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtn.o
+OUTPUT(12_stopwatch_motor.out elf32-littlearm)
+
+.ARM.attributes
+                0x0000000000000000       0x2e
+ .ARM.attributes
+                0x0000000000000000       0x1e /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crti.o
+ .ARM.attributes
+                0x000000000000001e       0x2e /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o
+ .ARM.attributes
+                0x000000000000004c       0x1c /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .ARM.attributes
+                0x0000000000000068       0x2e ./adc_pwm.o
+ .ARM.attributes
+                0x0000000000000096       0x37 ./blink.o
+ .ARM.attributes
+                0x00000000000000cd       0x2e ./keypad.o
+ .ARM.attributes
+                0x00000000000000fb       0x2e ./lcd.o
+ .ARM.attributes
+                0x0000000000000129       0x2e ./main.o
+ .ARM.attributes
+                0x0000000000000157       0x2e ./segment7.o
+ .ARM.attributes
+                0x0000000000000185       0x2e ./tm4c123gh6pm_startup_ccs_gcc.o
+ .ARM.attributes
+                0x00000000000001b3       0x2e ./uart.o
+ .ARM.attributes
+                0x00000000000001e1       0x1e /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_arm_muldf3.o)
+ .ARM.attributes
+                0x00000000000001ff       0x1e /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x000000000000021d       0x1e /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_arm_muldivdf3.o)
+ .ARM.attributes
+                0x000000000000023b       0x1e /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_arm_truncdfsf2.o)
+ .ARM.attributes
+                0x0000000000000259       0x1e /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_arm_fixsfsi.o)
+ .ARM.attributes
+                0x0000000000000277       0x2e /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-atoi.o)
+ .ARM.attributes
+                0x00000000000002a5       0x2e /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000000000002d3       0x2e /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-impure.o)
+ .ARM.attributes
+                0x0000000000000301       0x2e /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-init.o)
+ .ARM.attributes
+                0x000000000000032f       0x2e /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-memset.o)
+ .ARM.attributes
+                0x000000000000035d       0x2e /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-sprintf.o)
+ .ARM.attributes
+                0x000000000000038b       0x2e /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-strtol.o)
+ .ARM.attributes
+                0x00000000000003b9       0x2e /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-svfprintf.o)
+ .ARM.attributes
+                0x00000000000003e7       0x2e /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x0000000000000415       0x2e /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x0000000000000443       0x2e /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-ctype_.o)
+ .ARM.attributes
+                0x0000000000000471       0x2e /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-dtoa.o)
+ .ARM.attributes
+                0x000000000000049f       0x2e /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-fini.o)
+ .ARM.attributes
+                0x00000000000004cd       0x2e /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-freer.o)
+ .ARM.attributes
+                0x00000000000004fb       0x2e /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-localeconv.o)
+ .ARM.attributes
+                0x0000000000000529       0x2e /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-lock.o)
+ .ARM.attributes
+                0x0000000000000557       0x2e /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-mallocr.o)
+ .ARM.attributes
+                0x0000000000000585       0x1c /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-memchr.o)
+ .ARM.attributes
+                0x00000000000005a1       0x1c /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-memcpy.o)
+ .ARM.attributes
+                0x00000000000005bd       0x2e /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-mlock.o)
+ .ARM.attributes
+                0x00000000000005eb       0x2e /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-mprec.o)
+ .ARM.attributes
+                0x0000000000000619       0x2e /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-s_frexp.o)
+ .ARM.attributes
+                0x0000000000000647       0x2e /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x0000000000000675       0x1c /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-strlen.o)
+ .ARM.attributes
+                0x0000000000000691       0x2e /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-strncpy.o)
+ .ARM.attributes
+                0x00000000000006bf       0x2e /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-svfiprintf.o)
+ .ARM.attributes
+                0x00000000000006ed       0x2e /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x000000000000071b       0x2e /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-callocr.o)
+ .ARM.attributes
+                0x0000000000000749       0x2e /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-locale.o)
+ .ARM.attributes
+                0x0000000000000777       0x2e /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-mbtowc_r.o)
+ .ARM.attributes
+                0x00000000000007a5       0x2e /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-memmove.o)
+ .ARM.attributes
+                0x00000000000007d3       0x2e /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-reallocr.o)
+ .ARM.attributes
+                0x0000000000000801       0x2e /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-reent.o)
+ .ARM.attributes
+                0x000000000000082f       0x1c /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-strcmp.o)
+ .ARM.attributes
+                0x000000000000084b       0x2e /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-wctomb_r.o)
+ .ARM.attributes
+                0x0000000000000879       0x1e /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_arm_cmpdf2.o)
+ .ARM.attributes
+                0x0000000000000897       0x1e /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_arm_unorddf2.o)
+ .ARM.attributes
+                0x00000000000008b5       0x1e /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_arm_fixdfsi.o)
+ .ARM.attributes
+                0x00000000000008d3       0x1e /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_aeabi_uldivmod.o)
+ .ARM.attributes
+                0x00000000000008f1       0x2e /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_udivmoddi4.o)
+ .ARM.attributes
+                0x000000000000091f       0x1e /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x000000000000093d       0x2e /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libnosys.a(sbrk.o)
+ .ARM.attributes
+                0x000000000000096b       0x2e /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libnosys.a(_exit.o)
+ .ARM.attributes
+                0x0000000000000999       0x2e /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtend.o
+ .ARM.attributes
+                0x00000000000009c7       0x1e /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtn.o
+
+.comment        0x0000000000000000       0x79
+ .comment       0x0000000000000000       0x79 ./adc_pwm.o
+                                         0x7a (size before relaxing)
+ .comment       0x0000000000000079       0x7a ./blink.o
+ .comment       0x0000000000000079       0x7a ./keypad.o
+ .comment       0x0000000000000079       0x7a ./lcd.o
+ .comment       0x0000000000000079       0x7a ./main.o
+ .comment       0x0000000000000079       0x7a ./segment7.o
+ .comment       0x0000000000000079       0x7a ./tm4c123gh6pm_startup_ccs_gcc.o
+ .comment       0x0000000000000079       0x7a ./uart.o
+
+.debug_info     0x0000000000000000     0x31e5
+ .debug_info    0x0000000000000000       0xaa ./adc_pwm.o
+ .debug_info    0x00000000000000aa       0xaa ./keypad.o
+ .debug_info    0x0000000000000154      0xa53 ./lcd.o
+ .debug_info    0x0000000000000ba7      0xe6f ./main.o
+ .debug_info    0x0000000000001a16      0xb6e ./segment7.o
+ .debug_info    0x0000000000002584      0x19d ./tm4c123gh6pm_startup_ccs_gcc.o
+ .debug_info    0x0000000000002721      0xac4 ./uart.o
+
+.debug_abbrev   0x0000000000000000      0xb66
+ .debug_abbrev  0x0000000000000000       0x4e ./adc_pwm.o
+ .debug_abbrev  0x000000000000004e       0x4e ./keypad.o
+ .debug_abbrev  0x000000000000009c      0x20c ./lcd.o
+ .debug_abbrev  0x00000000000002a8      0x315 ./main.o
+ .debug_abbrev  0x00000000000005bd      0x270 ./segment7.o
+ .debug_abbrev  0x000000000000082d       0xd8 ./tm4c123gh6pm_startup_ccs_gcc.o
+ .debug_abbrev  0x0000000000000905      0x261 ./uart.o
+
+.debug_aranges  0x0000000000000000      0x1f8
+ .debug_aranges
+                0x0000000000000000       0x28 ./adc_pwm.o
+ .debug_aranges
+                0x0000000000000028       0x28 ./keypad.o
+ .debug_aranges
+                0x0000000000000050       0x48 ./lcd.o
+ .debug_aranges
+                0x0000000000000098       0x80 ./main.o
+ .debug_aranges
+                0x0000000000000118       0x50 ./segment7.o
+ .debug_aranges
+                0x0000000000000168       0x38 ./tm4c123gh6pm_startup_ccs_gcc.o
+ .debug_aranges
+                0x00000000000001a0       0x58 ./uart.o
+
+.debug_ranges   0x0000000000000000      0x188
+ .debug_ranges  0x0000000000000000       0x18 ./adc_pwm.o
+ .debug_ranges  0x0000000000000018       0x18 ./keypad.o
+ .debug_ranges  0x0000000000000030       0x38 ./lcd.o
+ .debug_ranges  0x0000000000000068       0x70 ./main.o
+ .debug_ranges  0x00000000000000d8       0x40 ./segment7.o
+ .debug_ranges  0x0000000000000118       0x28 ./tm4c123gh6pm_startup_ccs_gcc.o
+ .debug_ranges  0x0000000000000140       0x48 ./uart.o
+
+.debug_line     0x0000000000000000     0x1517
+ .debug_line    0x0000000000000000      0x1a9 ./adc_pwm.o
+ .debug_line    0x00000000000001a9        0x0 ./blink.o
+ .debug_line    0x00000000000001a9      0x169 ./keypad.o
+ .debug_line    0x0000000000000312      0x323 ./lcd.o
+ .debug_line    0x0000000000000635      0x61c ./main.o
+ .debug_line    0x0000000000000c51      0x3b4 ./segment7.o
+ .debug_line    0x0000000000001005      0x1b0 ./tm4c123gh6pm_startup_ccs_gcc.o
+ .debug_line    0x00000000000011b5      0x362 ./uart.o
+
+.debug_str      0x0000000000000000      0x9f6
+ .debug_str     0x0000000000000000      0x195 ./adc_pwm.o
+                                        0x1d2 (size before relaxing)
+ .debug_str     0x0000000000000195        0xb ./blink.o
+                                        0x126 (size before relaxing)
+ .debug_str     0x00000000000001a0       0x29 ./keypad.o
+                                        0x1dc (size before relaxing)
+ .debug_str     0x00000000000001c9      0x414 ./lcd.o
+                                        0x5f3 (size before relaxing)
+ .debug_str     0x00000000000005dd      0x219 ./main.o
+                                        0x7e6 (size before relaxing)
+ .debug_str     0x00000000000007f6       0xd9 ./segment7.o
+                                        0x6f9 (size before relaxing)
+ .debug_str     0x00000000000008cf       0xbb ./tm4c123gh6pm_startup_ccs_gcc.o
+                                        0x26e (size before relaxing)
+ .debug_str     0x000000000000098a       0x6c ./uart.o
+                                        0x61d (size before relaxing)
+
+.debug_frame    0x0000000000000000     0x1430
+ .debug_frame   0x0000000000000000       0x50 ./adc_pwm.o
+ .debug_frame   0x0000000000000050       0x50 ./keypad.o
+ .debug_frame   0x00000000000000a0       0xe0 ./lcd.o
+ .debug_frame   0x0000000000000180      0x1c4 ./main.o
+ .debug_frame   0x0000000000000344      0x100 ./segment7.o
+ .debug_frame   0x0000000000000444       0x7c ./tm4c123gh6pm_startup_ccs_gcc.o
+ .debug_frame   0x00000000000004c0      0x134 ./uart.o
+ .debug_frame   0x00000000000005f4       0x30 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_arm_muldf3.o)
+ .debug_frame   0x0000000000000624       0xac /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_arm_addsubdf3.o)
+ .debug_frame   0x00000000000006d0       0x50 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_arm_muldivdf3.o)
+ .debug_frame   0x0000000000000720       0x24 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_arm_truncdfsf2.o)
+ .debug_frame   0x0000000000000744       0x24 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_arm_fixsfsi.o)
+ .debug_frame   0x0000000000000768       0x30 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-atoi.o)
+ .debug_frame   0x0000000000000798       0x28 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-exit.o)
+ .debug_frame   0x00000000000007c0       0x2c /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-init.o)
+ .debug_frame   0x00000000000007ec       0x38 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-memset.o)
+ .debug_frame   0x0000000000000824       0x7c /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-sprintf.o)
+ .debug_frame   0x00000000000008a0       0x80 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-strtol.o)
+ .debug_frame   0x0000000000000920       0x44 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-svfprintf.o)
+ .debug_frame   0x0000000000000964       0x5c /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__call_atexit.o)
+ .debug_frame   0x00000000000009c0       0x20 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-atexit.o)
+ .debug_frame   0x00000000000009e0       0x8c /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-dtoa.o)
+ .debug_frame   0x0000000000000a6c       0x34 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-fini.o)
+ .debug_frame   0x0000000000000aa0       0x8c /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-freer.o)
+ .debug_frame   0x0000000000000b2c       0x40 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-localeconv.o)
+ .debug_frame   0x0000000000000b6c       0xb0 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-lock.o)
+ .debug_frame   0x0000000000000c1c       0x4c /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-mallocr.o)
+ .debug_frame   0x0000000000000c68       0x30 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-mlock.o)
+ .debug_frame   0x0000000000000c98      0x25c /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-mprec.o)
+ .debug_frame   0x0000000000000ef4       0x30 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-s_frexp.o)
+ .debug_frame   0x0000000000000f24       0x2c /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-sbrkr.o)
+ .debug_frame   0x0000000000000f50       0x38 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-strncpy.o)
+ .debug_frame   0x0000000000000f88       0x78 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-svfiprintf.o)
+ .debug_frame   0x0000000000001000       0x34 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__atexit.o)
+ .debug_frame   0x0000000000001034       0x28 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-callocr.o)
+ .debug_frame   0x000000000000105c       0x54 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-locale.o)
+ .debug_frame   0x00000000000010b0       0x4c /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-mbtowc_r.o)
+ .debug_frame   0x00000000000010fc       0x40 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-memmove.o)
+ .debug_frame   0x000000000000113c       0x48 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-reallocr.o)
+ .debug_frame   0x0000000000001184       0x60 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-reent.o)
+ .debug_frame   0x00000000000011e4       0x68 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-strcmp.o)
+ .debug_frame   0x000000000000124c       0x3c /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-wctomb_r.o)
+ .debug_frame   0x0000000000001288       0xc4 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_arm_cmpdf2.o)
+ .debug_frame   0x000000000000134c       0x20 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_arm_unorddf2.o)
+ .debug_frame   0x000000000000136c       0x24 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_arm_fixdfsi.o)
+ .debug_frame   0x0000000000001390       0x2c /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_aeabi_uldivmod.o)
+ .debug_frame   0x00000000000013bc       0x34 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_udivmoddi4.o)
+ .debug_frame   0x00000000000013f0       0x20 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libnosys.a(sbrk.o)
+ .debug_frame   0x0000000000001410       0x20 /home/kunal/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libnosys.a(_exit.o)
